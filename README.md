@@ -1,8 +1,6 @@
-# Project 6 - *Instagram*
+# *Instagram*
 
 **Instagram** is a photo sharing app using Parse as its backend.
-
-Time spent: **6** hours spent in total
 
 ## User Stories
 
